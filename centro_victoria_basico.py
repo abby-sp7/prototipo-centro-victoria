@@ -1,5 +1,5 @@
 # PROTOTIPO BASICO: Registro de ingresos y salidas
-# Centro Victoria - Hogar Huachipa
+# Centro Victoria
 # Los datos usados para la demostracion deben ser ficticios.
 
 ARCHIVO = "registros_centro_victoria.txt"
